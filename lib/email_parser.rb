@@ -4,5 +4,6 @@
 # or whitespace (' ').
 
 class EmailAddressParser
-  att
+  attr_accessor 
+  attr_reader 
 end
